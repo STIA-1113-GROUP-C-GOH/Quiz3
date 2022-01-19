@@ -1,0 +1,15 @@
+Enter the number of elements you want to store: 6
+Enter the elements of the array: 
+35
+65
+36
+72
+30
+56
+Option 1: Accept and Display elements of an array
+Option 2: Search elements of an array
+Option 3: Sort the elements in the array
+Enter your option: 
+3
+Random numbers: [35, 65, 36, 72, 30, 56]
+Sorted numbers: [30, 35, 36, 56, 65, 72]
